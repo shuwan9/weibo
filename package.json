@@ -1,0 +1,19 @@
+{
+  "name": "weibo",
+  "version": "0.0.1",
+  "description": "",
+  "type":"module",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "debug": "set NODE_ENV=debug&&node index.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "MIT",
+  "dependencies": {
+    "download": "^7.1.0",
+    "got": "10.2.0",
+    "md5": "^2.3.0"
+  }
+}
